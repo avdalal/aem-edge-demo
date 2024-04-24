@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/aem-edge-demo/:/",
-    "/content/aem-edge-demo/configuration:/.helix/config.json"
+    "/content/aem-edge-demo/:/"
   ]
 }
