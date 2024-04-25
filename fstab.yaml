@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p48658-e1287408.adobeaemcloud.com/bin/franklin.delivery/avdalal/aem-edge-demo/main"
+    url: "https://author-p48658-e1287408.adobeaemcloud.com/bin/franklin.delivery/avdalal/aem-edg"
     type: "markup"
     suffix: ".html"
